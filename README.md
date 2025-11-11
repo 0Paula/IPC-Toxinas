@@ -4,10 +4,10 @@ Puedes utilizar lenguaje Markdown para dar formato al archivo y agregar enlaces 
 ## Descripción
 Proporcionar una descripción detallada del proyecto,
 
-## Propósito:
+## Propósito
 
 
-## Objetivos:
+## Objetivos
 
 ## Instrucciones de uso 
 
