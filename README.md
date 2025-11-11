@@ -1,4 +1,4 @@
-# Proyecto
+# Eliminación de toxinas en cultivos destinados a la alimentación
 
 ![](Images/food-poisoning-1080x675-1.png)
 
