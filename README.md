@@ -1,8 +1,17 @@
 # Proyecto
-Puedes utilizar lenguaje Markdown para dar formato al archivo y agregar enlaces o imágenes.
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 
 ## Descripción
-Proporcionar una descripción detallada del proyecto,
+
 
 ## Propósito
 
