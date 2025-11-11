@@ -11,6 +11,10 @@
 
 ## Objetivos
 
+### 1.
+### 2.
+
+
 ## Instrucciones de uso 
 
 
