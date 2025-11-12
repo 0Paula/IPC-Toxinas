@@ -9,9 +9,8 @@ As an important global crop, the potato (Solanum tuberosum L.) contains the endo
 **Keywords**: potato (Solanum tuberosum L.), endophytes, antimicrobial activity, solanine, active component, Illumina-based analysis
 
 ## Introduction
-
-
 ## Material and methods
+## Results
 
 ### Figure 1.
 ### Figure 2.
@@ -23,8 +22,6 @@ As an important global crop, the potato (Solanum tuberosum L.) contains the endo
 ### Figure 8.
 ### Figure 9. 
 
-
-## Results
 ## Discusion 
 ## References
 
