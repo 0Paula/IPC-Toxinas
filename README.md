@@ -26,5 +26,5 @@ As an important global crop, the potato (Solanum tuberosum L.) contains the endo
 ## References
 
 
-## Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE).
+## License
+This project is under license [MIT](LICENSE).
