@@ -28,7 +28,7 @@ As an important global crop, the potato (Solanum tuberosum L.) contains the endo
 
 ## References
 
-### 1. Liu JM, Wang SS, Zheng X, Jin N, Lu J, Huang YT, Fan B, Wang FZ. Antimicrobial activity against phytopathogens and inhibitory activity on solanine in potatoes of the endophytic bacteria isolated from potato tubers. Front Microbiol. 2020 Nov 17.
+1. Liu JM, Wang SS, Zheng X, Jin N, Lu J, Huang YT, Fan B, Wang FZ. Antimicrobial activity against phytopathogens and inhibitory activity on solanine in potatoes of the endophytic bacteria isolated from potato tubers. _Front Microbiol_. 2020 Nov 17.
 
 ## License
 This project is under license [MIT](LICENSE).
