@@ -14,9 +14,9 @@ Paula Andrea Sánchez Álvarez  |  INTRODUCTION  | 0Paula | <br>
 
 Este repositorio muestra cómo se estructuró y analizó el estudio *“Antimicrobial Activity Against Phytopathogens and Inhibitory Activity on Solanine in Potatoes of the Endophytic Bacteria Isolated From Potato Tubers”* (Liu J.-M. et al., 2020), con datasets, borradores y comentarios que facilitan su comprensión.
 
-El estudio documenta bacterias endófitas aisladas de tubérculos de patata (Solanum tuberosum L.) con:
+El estudio documenta bacterias endófitas aisladas de tubérculos de patata (*Solanum tuberosum L.*) con:
 
-- Actividad antimicrobiana frente a fitopatógenos como Erwinia carotovora subsp. atroseptica y Streptomyces scabies.
+- Actividad antimicrobiana frente a fitopatógenos como *Erwinia carotovora* subsp. *atroseptica* y *Streptomyces scabies*.
 
 - Capacidad de inhibir la solanina, un glicoálcaloide tóxico de los tubérculos.
 
