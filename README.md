@@ -12,7 +12,7 @@ Paula Andrea Sanchez Álvarez  |  INTRODUCTION  | 0Paula | <br>
 
 **Descripción del Proyecto**  
 Este repositorio documenta y estructura el estudio sobre bacterias endófitas aisladas de tubérculos de patata (Potato / *Solanum tuberosum* L.) que muestran:  
-- Actividad antimicrobiana frente a fitopatógenos específicos (por ejemplo, Erwinia carotovora subsp. atroseptica y Streptomyces scabies). 
+- Actividad antimicrobiana frente a fitopatógenos específicos (por ejemplo, *Erwinia carotovora* subsp. *atroseptica* y *Streptomyces scabies*). 
 - Capacidad inhibidora de la solanina (un glicoálcaliode tóxico presente en tubérculos de papa) en tubérculos de papa. 
 - Análisis de la comunidad bacteriana endófita mediante secuenciación Illumina (16S rRNA) para explorar la relación entre contenido de solanina y composición microbiana.
 
