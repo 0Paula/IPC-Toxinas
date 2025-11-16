@@ -1,4 +1,4 @@
-## **Proyecto: Endophytic Bacteria from Potato Tubers**  
+## **Proyecto: Toxinas en Patatas: Análisis de Bacterias Endófitas y Actividad Antimicrobiana**  
 
 **Autores** <br>
 *| Autor | Contribuciones | Github |* <br>
