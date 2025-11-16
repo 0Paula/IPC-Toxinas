@@ -6,7 +6,7 @@ Lidia Conde Matos |    |  lidia-conde | <br>
 Lucia Martinez Garrido |    |luciam99 | <br>
 Marina Monzo Gallego |    |marinamonzo91-bit | <br>
 Maria Elena Martinez Garrido |    | melemargar | <br>
-Miguel Grande Falceto |    |    | <br>
+Miguel Grande Falceto |    |  miguelgrandefalceto-alt  | <br>
 Nuria Fernandez Perez  | Graduada en Biología | NuriaFdez8 | <br>
 Paula Andrea Sanchez Álvarez  |    | 0Paula | <br>
 
