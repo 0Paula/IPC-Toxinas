@@ -25,8 +25,7 @@ El estudio documenta bacterias endófitas aisladas de tubérculos de patata (*So
 
   
 
-*Si deseas clonar este repositorio:*    <br>
-git clone https://github.com/0Paula/IPC-Toxinas <br>
+*Si deseas clonar este repositorio:*    https://github.com/0Paula/IPC-Toxinas <br>
                                         
 *Si deseas contactar con los autores de este repositorio:* IPC-Toxinas-Proyect@gmail.com <br>
 <br>
