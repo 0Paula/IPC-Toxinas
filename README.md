@@ -1,4 +1,4 @@
-## **Proyecto: Endophytic Bacteria from Potato Tubers**  
+## **Proyecto: Toxinas en Patatas: Análisis de Bacterias Endófitas y Actividad Antimicrobiana**  
 
 **Autores** <br>
 *| Autor | Contribuciones | Github |* <br>
@@ -12,7 +12,7 @@ Paula Andrea Sánchez Álvarez  |  INTRODUCTION  | 0Paula | <br>
 
 **Descripción del Proyecto**  
 
-Este repositorio muestra cómo se estructuró y analizó el estudio *“Antimicrobial Activity Against Phytopathogens and Inhibitory Activity on Solanine in Potatoes of the Endophytic Bacteria Isolated From Potato Tubers”* (Liu J.-M. et al., 2020), con datasets, borradores y comentarios que facilitan su comprensión.
+Este repositorio muestra cómo se estructuró y analizó el estudio *“Antimicrobial Activity Against Phytopathogens and Inhibitory Activity on Solanine in Potatoes of the Endophytic Bacteria Isolated From Potato Tubers”* (Liu J.-M. et al., 2020), borradores y comentarios que facilitan su comprensión. Los Datasets incluidos son simulados, pero contextualizados como parte del ejercicio.
 
 El estudio documenta bacterias endófitas aisladas de tubérculos de patata (*Solanum tuberosum L.*) con:
 
@@ -26,11 +26,13 @@ El estudio documenta bacterias endófitas aisladas de tubérculos de patata (*So
 
 *Si deseas clonar este repositorio:*    <br>
 git clone https://github.com/0Paula/IPC-Toxinas <br>
-cd IPC-Toxinas
                                         
 *Si deseas contactar con los autores de este repositorio:* IPC-Toxinas-Proyect@gmail.com <br>
 <br>
 ¡Todas las contribuciones son bienvenidas!
+
+**Referencias**  <br>
+Liu, J.-M., Wang, S.-S., Zheng, X., Jin, N., Lu, J., Huang, Y.-T., Fan, B., & Wang, F.-Z. (2020). Antimicrobial Activity Against Phytopathogens and Inhibitory Activity on Solanine in Potatoes of the Endophytic Bacteria Isolated From Potato Tubers. Frontiers in Microbiology, 11, 570926. https://doi.org/10.3389/fmicb.2020.570926
 
 ## License
 This project is under license [MIT](LICENSE).
