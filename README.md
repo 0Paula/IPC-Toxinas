@@ -1,7 +1,7 @@
 ## **Proyecto: Endophytic Bacteria from Potato Tubers**  
 
 **Autores**
-*| Autor | Rol principal | Github |* <br>
+*| Autor | Perfil Profesional | Github |* <br>
 Lidia Conde Matos |    |  lidia-conde | <br>
 Lucia Martinez Garrido |    |luciam99 | <br>
 Marina Monzo Gallego |    |marinamonzo91-bit | <br>
