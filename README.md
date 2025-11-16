@@ -31,7 +31,7 @@ git clone https://github.com/0Paula/IPC-Toxinas <br>
 <br>
 ¡Todas las contribuciones son bienvenidas!
 
-**Referencias**
+**Referencias**  <br>
 Liu, J.-M., Wang, S.-S., Zheng, X., Jin, N., Lu, J., Huang, Y.-T., Fan, B., & Wang, F.-Z. (2020). Antimicrobial Activity Against Phytopathogens and Inhibitory Activity on Solanine in Potatoes of the Endophytic Bacteria Isolated From Potato Tubers. Frontiers in Microbiology, 11, 570926. https://doi.org/10.3389/fmicb.2020.570926
 
 ## License
