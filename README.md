@@ -3,23 +3,33 @@
 **Autores** <br>
 *| Autor | Contribuciones | Github |* <br>
 Lidia Conde Matos | IMAGES |  lidia-conde | <br>
-Lucia Martinez Garrido |  MATERIALS & METHODS | luciam99 | <br>
+Lucía Martínez Garrido |  MATERIALS & METHODS | luciam99 | <br>
 Marina Monzo Gallego | ABSTRACT | marinamonzo91-bit | <br>
-Maria Elena Martinez Garrido |  RESULTS  | melemargar | <br>
+Maria Elena Martínez Garrido |  RESULTS  | melemargar | <br>
 Miguel Grande Falceto | REFERENCES |  miguelgrandefalceto-alt  | <br>
-Nuria Fernandez Perez  | DISCUSSION | NuriaFdez8 | <br>
-Paula Andrea Sanchez Álvarez  |  INTRODUCTION  | 0Paula | <br>
+Nuria Fernández Pérez  | DISCUSSION | NuriaFdez8 | <br>
+Paula Andrea Sánchez Álvarez  |  INTRODUCTION  | 0Paula | <br>
 
 **Descripción del Proyecto**  
-Este repositorio documenta y estructura el estudio sobre bacterias endófitas aisladas de tubérculos de patata (Potato / *Solanum tuberosum* L.) que muestran:  
-- Actividad antimicrobiana frente a fitopatógenos específicos (por ejemplo, *Erwinia carotovora* subsp. *atroseptica* y *Streptomyces scabies*). 
-- Capacidad inhibidora de la solanina (un glicoálcaliode tóxico presente en tubérculos de papa) en tubérculos de papa. 
-- Análisis de la comunidad bacteriana endófita mediante secuenciación Illumina (16S rRNA) para explorar la relación entre contenido de solanina y composición microbiana.
 
-El propósito de este repositorio es servir como **guía reproducible**, con código, datasets, análisis e informes que permiten replicar, extender o adaptar el enfoque del estudio.
+Este repositorio muestra cómo se estructuró y analizó el estudio *“Antimicrobial Activity Against Phytopathogens and Inhibitory Activity on Solanine in Potatoes of the Endophytic Bacteria Isolated From Potato Tubers”* (Liu J.-M. et al., 2020), con datasets, borradores y comentarios que facilitan su comprensión.
 
-**Referencia:**
-Liu J.-M., Wang S.-S., Zheng X., Jin N., Lu J., Huang Y.-T., Fan B., Wang F.-Z. (2020) *Antimicrobial Activity Against Phytopathogens and Inhibitory Activity on Solanine in Potatoes of the Endophytic Bacteria Isolated From Potato Tubers.* Front. Microbiol. 11:570926. doi:10.3389/fmicb.2020.570926
+El estudio documenta bacterias endófitas aisladas de tubérculos de patata (Solanum tuberosum L.) con:
+
+- Actividad antimicrobiana frente a fitopatógenos como Erwinia carotovora subsp. atroseptica y Streptomyces scabies.
+
+- Capacidad de inhibir la solanina, un glicoálcaloide tóxico de los tubérculos.
+
+- Análisis de la comunidad bacteriana endófita mediante secuenciación Illumina (16S rRNA) para estudiar la relación entre solanina y composición microbiana.
+
+  
+
+*Si deseas clonar este repositorio:*    git clone https://github.com/0Paula/IPC-Toxinas <br>
+                                        cd IPC-Toxinas
+                                        
+*Si deseas contactar con los autores de este repositorio:* IPC-Toxinas-Proyect@gmail.com <br>
+<br>
+¡Todas las contribuciones son bienvenidas!
 
 ## License
 This project is under license [MIT](LICENSE).
