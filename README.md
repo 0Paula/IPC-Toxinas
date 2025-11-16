@@ -1,3 +1,31 @@
+**Proyecto: Endophytic Bacteria from Potato Tubers**  
+
+**Autores**
+*| Autor | Rol principal | Github |*
+Lidia Conde Matos |    |  lidia-conde |
+Lucia Martinez Garrido |    |luciam99 |
+Marina Monzo Gallego |    |marinamonzo91-bit |
+Maria Elena Martinez Garrido |    |    |
+Miguel Grande Falceto |    |    |
+Nuria Fernandez Perez  | Graduada en Biología | NuriaFdez8 |
+Paula Andrea Sanchez Álvarez  |    | 0Paula |
+
+## Descripción del Proyecto  
+Este repositorio documenta y estructura el estudio sobre bacterias endófitas aisladas de tubérculos de patata (Potato / *Solanum tuberosum* L.) que muestran:  
+- Actividad antimicrobiana frente a fitopatógenos específicos (por ejemplo, Erwinia carotovora subsp. atroseptica y Streptomyces scabies). 
+- Capacidad inhibidora de la solanina (un glicoálcaliode tóxico presente en tubérculos de papa) en tubérculos de papa. 
+- Análisis de la comunidad bacteriana endófita mediante secuenciación Illumina (16S rRNA) para explorar la relación entre contenido de solanina y composición microbiana.
+
+El propósito de este repositorio es servir como **guía reproducible**, con código, datasets, análisis e informes que permiten replicar, extender o adaptar el enfoque del estudio.
+
+**Referencia:**
+Liu J.-M., Wang S.-S., Zheng X., Jin N., Lu J., Huang Y.-T., Fan B., Wang F.-Z. (2020) *Antimicrobial Activity Against Phytopathogens and Inhibitory Activity on Solanine in Potatoes of the Endophytic Bacteria Isolated From Potato Tubers.* Front. Microbiol. 11:570926. doi:10.3389/fmicb.2020.570926
+
+
+
+
+
+
 # Antimicrobial Activity Against Phytopathogens and Inhibitory Activity on Solanine in Potatoes of the Endophytic Bacteria Isolated From Potato Tubers
 
 ![](Images/food-poisoning-1080x675-1.png)
