@@ -1,14 +1,14 @@
 ## **Proyecto: Endophytic Bacteria from Potato Tubers**  
 
 **Autores** <br>
-*| Autor | Perfil Profesional | Github |* <br>
-Lidia Conde Matos |    |  lidia-conde | <br>
-Lucia Martinez Garrido |    |luciam99 | <br>
-Marina Monzo Gallego |    |marinamonzo91-bit | <br>
-Maria Elena Martinez Garrido |    | melemargar | <br>
-Miguel Grande Falceto |    |  miguelgrandefalceto-alt  | <br>
-Nuria Fernandez Perez  | Graduada en Biología | NuriaFdez8 | <br>
-Paula Andrea Sanchez Álvarez  |    | 0Paula | <br>
+*| Autor | Contribuciones | Github |* <br>
+Lidia Conde Matos | IMAGES |  lidia-conde | <br>
+Lucia Martinez Garrido |  MATERIALS & METHODS |luciam99 | <br>
+Marina Monzo Gallego | ABSTRACT |marinamonzo91-bit | <br>
+Maria Elena Martinez Garrido |  RESULTS  | melemargar | <br>
+Miguel Grande Falceto | REFERENCES |  miguelgrandefalceto-alt  | <br>
+Nuria Fernandez Perez  | DISCUSSION | NuriaFdez8 | <br>
+Paula Andrea Sanchez Álvarez  |  INTRODUCTION  | 0Paula | <br>
 
 **Descripción del Proyecto**  
 Este repositorio documenta y estructura el estudio sobre bacterias endófitas aisladas de tubérculos de patata (Potato / *Solanum tuberosum* L.) que muestran:  
