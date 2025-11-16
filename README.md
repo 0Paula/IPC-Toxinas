@@ -3,8 +3,8 @@
 **Autores** <br>
 *| Autor | Contribuciones | Github |* <br>
 Lidia Conde Matos | IMAGES |  lidia-conde | <br>
-Lucia Martinez Garrido |  MATERIALS & METHODS |luciam99 | <br>
-Marina Monzo Gallego | ABSTRACT |marinamonzo91-bit | <br>
+Lucia Martinez Garrido |  MATERIALS & METHODS | luciam99 | <br>
+Marina Monzo Gallego | ABSTRACT | marinamonzo91-bit | <br>
 Maria Elena Martinez Garrido |  RESULTS  | melemargar | <br>
 Miguel Grande Falceto | REFERENCES |  miguelgrandefalceto-alt  | <br>
 Nuria Fernandez Perez  | DISCUSSION | NuriaFdez8 | <br>
